@@ -2,8 +2,20 @@ package com.archisys.archisyscorelib.Base;
 
 import android.content.Context;
 import android.content.res.Configuration;
+import android.content.res.Resources;
+import android.util.Log;
 
 import androidx.multidex.MultiDexApplication;
+
+import com.nostra13.universalimageloader.cache.memory.impl.WeakMemoryCache;
+import com.nostra13.universalimageloader.core.DisplayImageOptions;
+import com.nostra13.universalimageloader.core.ImageLoader;
+import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
+import com.nostra13.universalimageloader.core.assist.ImageScaleType;
+import com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer;
+
+import io.realm.Realm;
+import io.realm.RealmConfiguration;
 
 
 public class BaseApplication extends MultiDexApplication {
@@ -51,6 +63,35 @@ public class BaseApplication extends MultiDexApplication {
     public void onCreate() {
         super.onCreate();
 
+        Resources res =getResources();
+        Configuration newConfig = new Configuration(res.getConfiguration());
+        DisplayImageOptions defaultOptions = new DisplayImageOptions.Builder()
+                .imageScaleType(ImageScaleType.EXACTLY)
+                .displayer(new RoundedBitmapDisplayer(1000)).build();
+        ImageLoaderConfiguration config = new ImageLoaderConfiguration.Builder(
+                getApplicationContext())
+                .defaultDisplayImageOptions(defaultOptions)
+                .memoryCache(new WeakMemoryCache())
+                .build();
+        ImageLoader.getInstance().init(config);
+        updateScalingConfiguation(newConfig);
+
+        Realm.init(getApplicationContext());
+        RealmConfiguration realmConfig = new RealmConfiguration.Builder()
+                .name("FindMyTrade.realm")
+                .deleteRealmIfMigrationNeeded()
+                .build();
+        Realm realm = null;
+        try {
+            realm= Realm.getDefaultInstance();
+            realm.setDefaultConfiguration(realmConfig);
+            realm = Realm.getInstance(realmConfig);
+            Log.i("Realm is located at:", realm.getConfiguration().getRealmDirectory().getAbsolutePath());
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+        }
     }
 
     @Override
@@ -59,5 +100,20 @@ public class BaseApplication extends MultiDexApplication {
 //        updateScalingConfiguation(newConfig);
         super.onConfigurationChanged(newConfig);
     }
+
+    private void updateScalingConfiguation(Configuration newConfig){
+        if(!allowScalling) {
+            if (newConfig.fontScale != 1.0f) {
+                newConfig.fontScale = 1.0f;
+                getResources().updateConfiguration(newConfig, getResources().getDisplayMetrics());
+
+//                onCreate();
+
+//            super.onConfigurationChanged(newConfig);
+            }
+        }
+    }
+
+
 
 }

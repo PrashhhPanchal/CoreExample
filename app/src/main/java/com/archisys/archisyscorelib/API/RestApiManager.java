@@ -5,6 +5,7 @@ import android.util.Log;
 
 import com.archisys.archisyscorelib.Base.BaseApplication;
 import com.archisys.archisyscorelib.Model.Device;
+import com.archisys.archisyscorelib.Utils.CommonUtils;
 import com.archisys.archisyscorelib.Utils.Prefs;
 
 import java.io.IOException;
@@ -38,7 +39,7 @@ public class RestApiManager {
                     public Response intercept(Chain chain) throws IOException {
 
                         Request.Builder builder = chain.request().newBuilder();
-                        if (CommonUtils.isConnectingToInternet())
+                        if (CommonUtils.isNetworkAvailable(context))
                         {
                             builder.addHeader("Cache-Control", "public, max-age=" + 5);
                         }
