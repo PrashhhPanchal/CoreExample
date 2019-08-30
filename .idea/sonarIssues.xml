@@ -108,6 +108,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Base/BaseApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/Base/BaseApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/DatePickerFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/FloatingActionButtonBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/TouchImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />

@@ -8,7 +8,8 @@ import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 
-import com.archisys.findmytrade.Utils.CustomSnackbar.TSnackbar;
+import com.google.android.material.snackbar.Snackbar;
+
 
 public class FloatingActionButtonBehavior extends CoordinatorLayout.Behavior<FrameLayout> {
 
@@ -20,7 +21,7 @@ public class FloatingActionButtonBehavior extends CoordinatorLayout.Behavior<Fra
     @Override
     public boolean layoutDependsOn(CoordinatorLayout parent, FrameLayout child, View dependency) {
 
-        return dependency instanceof TSnackbar.SnackbarLayout;
+        return dependency instanceof Snackbar.SnackbarLayout;
     }
 
     @Override

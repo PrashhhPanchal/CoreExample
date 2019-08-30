@@ -17,13 +17,13 @@ public class PicassoTargetImage {
 
     public Target picassoImageTarget(Context context, final String imageDir) {
 
-        String imgName = "profilePicture.png";
+        final String imgName = "profilePicture.png";
         Log.d("picassoImageTarget", " picassoImageTarget");
         ContextWrapper cw = new ContextWrapper(context);
         final File directory = cw.getDir(imageDir, Context.MODE_PRIVATE); // path to /data/data/yourapp/app_imageDir
         Target target = new Target() {
             @Override
-            public void onBitmapLoaded(Bitmap bitmap, Picasso.LoadedFrom from) {
+            public void onBitmapLoaded(final Bitmap bitmap, Picasso.LoadedFrom from) {
                 new Thread(new Runnable() {
                     @Override
                     public void run() {

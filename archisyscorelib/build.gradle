@@ -25,7 +25,7 @@ android {
 
 }
 
-/*dependencies {
+dependencies {
 
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
@@ -49,4 +49,6 @@ android {
     implementation 'com.google.firebase:firebase-messaging:19.0.1'
 
     implementation 'com.android.support:multidex:1.0.3'
-}*/
+
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+}

@@ -27,7 +27,7 @@ import android.widget.Scroller;
 
 import androidx.appcompat.widget.AppCompatImageView;
 
-import com.archisys.findmytrade.R;
+import com.archisys.archisyscorelib.R;
 
 
 public class TouchImageView extends AppCompatImageView {

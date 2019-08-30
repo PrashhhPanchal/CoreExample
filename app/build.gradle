@@ -1,9 +1,10 @@
-apply plugin: 'com.android.library'
+apply plugin: 'com.android.application'
 apply plugin: 'realm-android'
 
 android {
     compileSdkVersion 28
     defaultConfig {
+        applicationId "com.archisys.archisyscorelib"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1

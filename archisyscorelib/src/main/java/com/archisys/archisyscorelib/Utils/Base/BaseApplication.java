@@ -14,8 +14,6 @@ import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.ImageScaleType;
 import com.nostra13.universalimageloader.core.display.RoundedBitmapDisplayer;
 
-import io.realm.Realm;
-import io.realm.RealmConfiguration;
 
 
 public class BaseApplication extends MultiDexApplication {
@@ -76,7 +74,7 @@ public class BaseApplication extends MultiDexApplication {
         ImageLoader.getInstance().init(config);
         updateScalingConfiguation(newConfig);
 
-        Realm.init(getApplicationContext());
+        /*Realm.init(getApplicationContext());
         RealmConfiguration realmConfig = new RealmConfiguration.Builder()
                 .name("FindMyTrade.realm")
                 .deleteRealmIfMigrationNeeded()
@@ -91,7 +89,7 @@ public class BaseApplication extends MultiDexApplication {
         catch (Exception e)
         {
             e.printStackTrace();
-        }
+        }*/
     }
 
     @Override
