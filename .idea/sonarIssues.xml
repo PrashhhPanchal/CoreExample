@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/User/MyProfileEditActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/build.gradle">
           <value>
             <set />
@@ -88,6 +93,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/DatePickerFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/FloatingActionButtonBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/PicassoTargetImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/Prefs.java">
           <value>
             <set />
@@ -98,7 +118,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/StickyHeaders/StickyHeaderLayoutManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/TouchImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/Utils/DatePickerFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/Utils/FloatingActionButtonBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/Utils/PicassoTargetImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/Utils/StickyHeaders/StickyHeaderLayoutManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Utils/Utils/TouchImageView.java">
           <value>
             <set />
           </value>
@@ -128,7 +178,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/PicassoTargetImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/StickyHeaders/StickyHeaderLayoutManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/TouchImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/Utils/FloatingActionButtonBehavior.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/Utils/PicassoTargetImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/Utils/StickyHeaders/StickyHeaderLayoutManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/Utils/TouchImageView.java">
           <value>
             <set />
           </value>
