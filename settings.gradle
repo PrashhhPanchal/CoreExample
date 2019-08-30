@@ -1,0 +1,2 @@
+include ':app', ':archisyscorelib'
+rootProject.name='ArchisysCoreLib'
