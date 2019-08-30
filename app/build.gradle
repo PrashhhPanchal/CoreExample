@@ -28,23 +28,4 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
 
-    /*implementation 'android.arch.navigation:navigation-fragment:1.0.0'
-    implementation 'android.arch.navigation:navigation-ui:1.0.0'
-
-    implementation 'com.squareup.retrofit2:retrofit:2.4.0'
-    implementation 'com.squareup.retrofit2:converter-jackson:2.5.0'
-    implementation 'com.fasterxml.jackson.core:jackson-databind:2.2.3'
-
-    implementation 'com.squareup.picasso:picasso:2.71828'
-    implementation 'com.squareup.okhttp3:okhttp:3.14.1'
-    implementation 'io.reactivex.rxjava2:rxjava:2.1.8'
-
-    implementation 'com.google.firebase:firebase-core:17.0.1'
-    implementation 'com.google.firebase:firebase-messaging:19.0.1'
-
-    implementation 'com.android.support:multidex:1.0.3'
-
-    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'*/
-
-
 }
