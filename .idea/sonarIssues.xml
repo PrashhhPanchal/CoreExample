@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/base/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/User/MyProfileEditActivity.java">
           <value>
             <set />
@@ -23,12 +28,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/drawable/cart_icon_drawable.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/dashboard_account_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/promo_code_activity.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/tip_detail_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/values/styles.xml">
           <value>
             <set />
           </value>

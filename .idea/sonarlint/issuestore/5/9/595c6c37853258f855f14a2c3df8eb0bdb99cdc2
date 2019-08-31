@@ -1,0 +1,40 @@
+
+Osquid:S2589¬"7Remove this expression which always evaluates to "true"(¼ÉŞ’
+_squid:UnusedPrivateMethod³"4Remove this unused private "printMatrixInfo" method.(ÄªÏªÿÿÿÿÿ
+^squid:S2184€"ACast one of the operands of this division operation to a "float".(µâ¨øÿÿÿÿ
+jsquid:S3776À"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(î¦Ÿ
+^squid:S2184€"ACast one of the operands of this division operation to a "float".(µâ¨øÿÿÿÿ
+Ysquid:S2184¤"ACast one of the operands of this division operation to a "float".(ªÄÜ•
+9squid:S1659»
+""Declare "maxY" on a separate line.(ÎˆÙ8
+?squid:S1659`"(Declare "viewHeight" on a separate line.(‰±©ë
+Csquid:S1659`",Declare "prevViewHeight" on a separate line.(‰±©ë
+V"squid:SwitchLastCaseIsDefaultCheck”""Add a default case to this switch.(ãÁğ™øÿÿÿÿ
+Lsquid:S3398í"/Move this method into "PrivateOnTouchListener".(‰Šß‹ıÿÿÿÿ
+;squid:S1659²
+"#Declare "currY" on a separate line.(Îó
+9squid:S1659»
+""Declare "minY" on a separate line.(ÎˆÙ8
+Bsquid:S1659`"+Declare "prevViewWidth" on a separate line.(‰±©ë
+@squid:S1659ö"(Declare "upperScale" on a separate line.(¼â®
+Hsquid:S1659e"1Declare "prevMatchViewHeight" on a separate line.(Íæ… 
+@squid:S1659˜	"(Declare "targetZoom" on a separate line.(Ê’Æ¦
+Gsquid:S1659e"0Declare "prevMatchViewWidth" on a separate line.(Íæ… 
+b
+squid:S128æ"LEnd this switch case with an unconditional break, return or throw statement.(ê¢ö(
+Dsquid:S16598"(Declare "prevMatrix" on a separate line.(‘›Ğ°ÿÿÿÿÿ
+Dsquid:S1659e"-Declare "matchViewHeight" on a separate line.(Íæ… 
+jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶ñ©¨
+9squid:S1659»
+""Declare "maxX" on a separate line.(ÎˆÙ8
+jsquid:S1871´"MThis branch's code block is the same as the block for the branch on line 942.(âÉ¬­ıÿÿÿÿ
+Bsquid:S1659™	"%Declare "bitmapY" on a separate line.(³¢ôùÿÿÿÿ
+Csquid:S1659Û"&Declare "maxTrans" on a separate line.(óãÙ¼úÿÿÿÿ
+=squid:S3398
+"&Move this method into "DoubleTapZoom".(Ÿ°şH
+Ysquid:S2184¤"ACast one of the operands of this division operation to a "float".(ªÄÜ•
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è²ôºúÿÿÿÿ
+jsquid:S1871±"MThis branch's code block is the same as the block for the branch on line 942.(áÀÿ‡úÿÿÿÿ
+jsquid:S1871Ÿ"MThis branch's code block is the same as the block for the branch on line 924.(‡ºø§úÿÿÿÿ
+esquid:S1871¢"MThis branch's code block is the same as the block for the branch on line 924.(¬ºûß
+Zsquid:S00107"<Method has 8 parameters, which is greater than 7 authorized.(¡ê¡¼ıÿÿÿÿ

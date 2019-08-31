@@ -1,0 +1,5 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è²ôºúÿÿÿÿ
+Osquid:UselessParenthesesCheck="!Remove these useless parentheses.(ç“Ì½øÿÿÿÿ
+Hsquid:S1068",Remove this unused "textSize" private field.(á«ˆ„þÿÿÿÿ
+Ksquid:S1068"/Remove this unused "textBgColor" private field.(¡ŠÎ‘þÿÿÿÿ

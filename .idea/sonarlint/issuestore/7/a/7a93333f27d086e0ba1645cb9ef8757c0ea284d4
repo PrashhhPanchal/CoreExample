@@ -1,0 +1,12 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í√ãﬁ
+gsquid:CommentedOutCodeLinem"<This block of commented-out lines of code should be removed.(∏ıﬁÄ˛ˇˇˇˇ
+Hsquid:S3010",Remove this assignment of "_CurrentContext".(ÓµÒ•¸ˇˇˇˇ
+gsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(˘‡ƒ®ˇˇˇˇˇ
+Fsquid:S1066g"/Merge this if statement with the enclosing one.(◊‚¿¡
+é"squid:ClassVariableVisibilityCheck)"[Make activityVisible a static final constant or non-public and provide accessors if needed.(Ì¥Ù‹˙ˇˇˇˇ
+Qsquid:S1444)"5Make this "public static activityVisible" field final(Ì¥Ù‹˙ˇˇˇˇ
+vsquid:S3008"ZRename this field "_CurrentContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¬˛í¸ˇˇˇˇ
+Dsquid:S1185_"(Remove this method to simply inherit it.(∫⁄—“˛ˇˇˇˇ
+bsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(ä˚ø¸
+isquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ÃÈ™8‰§äçŒ-

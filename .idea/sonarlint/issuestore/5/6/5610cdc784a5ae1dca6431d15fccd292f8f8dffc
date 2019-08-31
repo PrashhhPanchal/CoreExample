@@ -1,0 +1,38 @@
+
+Hsquid:S1444/"1Make this "public static isConnected" field final(ò¿²£
+fsquid:S2095‹"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.( ‹­Û
+msquid:S2095"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(øòàşøÿÿÿÿ
+…"squid:ClassVariableVisibilityCheck/"WMake isConnected a static final constant or non-public and provide accessors if needed.(ò¿²£
+Ysquid:S2259_"BA "NullPointerException" could be thrown; "date" is nullable here.(­ù“
+osquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûº²ùşÿÿÿÿ
+osquid:S00117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒğ³ãøÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è²ôºúÿÿÿÿ
+?squid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148”"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+;squid:S1148¢"#Use a logger to log this exception.(Ç’Çê
+@squid:S1148ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148ú"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148™"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+§%squid:RedundantThrowsDeclarationCheckI"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(áßÌ¦ùÿÿÿÿ
+^squid:S1126‘"AReplace this if-then-else statement by a single return statement.(”˜¯½şÿÿÿÿ
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(¥¬ÉÈùÿÿÿÿ
+P
+squid:S106×"9Replace this use of System.out or System.err by a logger.(¾Î³Ã
+U
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(¼Í­Éşÿÿÿÿ
+Dsquid:S1905Ù"'Remove this unnecessary cast to "long".(™äÇŞÿÿÿÿÿ
+P
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(ãÑ¨¾
+Bsquid:S00108Ü")Either remove or fill this block of code.(”ı¾
+jsquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 75 to the 15 allowed.(ÑÎ¬ˆ
+^
+squid:S899‰"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+U
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ÜÒÂ•şÿÿÿÿ
+gsquid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+Qsquid:S4719 "9Replace charset name argument with StandardCharsets.UTF_8(Şİ½
