@@ -3,7 +3,32 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TestProject/espressoUIIntegrationTest/app/src/androidTest/java/com/android/sample/espressouitestsample/login/LoginScreenTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/androidTest/java/com/archisys/findmytrade/ui/Startup/LoginActivityTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/androidTest/java/com/archisys/findmytrade/ui/Startup/OTPActivityTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/androidTest/java/com/archisys/findmytrade/ui/Startup/SplashScreenActivityTest.java">
           <value>
             <set />
           </value>
@@ -14,6 +39,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/User/MyProfileEditActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/advisor/ContactTAActivity.java">
           <value>
             <set />
           </value>
@@ -114,6 +144,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/Broadcast/InternetConnectorReceiver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/archisys/archisyscorelib/MainActivity.java">
           <value>
             <set />
           </value>

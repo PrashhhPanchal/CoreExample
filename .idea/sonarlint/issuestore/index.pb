@@ -45,3 +45,5 @@ P
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 L
 archisyscorelib/build.gradle,e/2/e2054738f6942b05f27d44cd9f085a8e0b272b54
+{
+Karchisyscorelib/src/main/java/com/archisys/archisyscorelib/API/RestApi.java,6/b/6b51f9a67a4e098e5cfef883ac0bc8ab3ce4d785
