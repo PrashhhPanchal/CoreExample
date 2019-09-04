@@ -33,12 +33,87 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/Utils/CommonUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/Utils/ProcessingDashboardList.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/AltExploreAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/AltWatchlistAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/CommentReplyAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/RatingAndReviewAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/SubscribedAdvisorAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/TAsAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/TipCommentAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/adapter/TipHistoryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/base/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/fragment/SubscribedTAsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/fragment/dashboard_fragment/AccountFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/fragment/dashboard_fragment/ExploreFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/fragment/dashboard_fragment/TAsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/fragment/dashboard_fragment/WatchlistFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/Startup/OTPActivity.java">
           <value>
             <set />
           </value>
@@ -49,6 +124,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/advisor/ContactTAActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/advisor/TAsProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/advisor/TipHistoryActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/dashboard/AlternateDashboardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/dashboard/DashboardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/java/com/archisys/findmytrade/ui/dashboard/TabDashboardActivity.java">
           <value>
             <set />
           </value>
@@ -73,12 +173,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/dashboard_tas_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/explore_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/image_gallery_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/profile_picture_view_dialog.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/promo_code_activity.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/tip_detail_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/watchlist_fragment.xml">
           <value>
             <set />
           </value>
