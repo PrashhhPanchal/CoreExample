@@ -3,12 +3,8 @@ p
 @app/src/main/java/com/archisys/archisyscorelib/MainActivity.java,5/3/5322988eddb580c2ed9b227cc8f058a23e8d4cb9
 Š
 Zarchisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/CircleTransformation.java,3/5/35207ed69c1c5b43bb175e201e62887c662d2d28
-…
-Uarchisyscorelib/src/main/java/com/archisys/archisyscorelib/API/ApiClientCallBack.java,6/4/646669c9cfa70c064395a14c6b732a41c0f9f461
 ƒ
 Sarchisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/ImageFilePath.java,7/9/79a0a8f06f5b2d267ce64c19251c1ba69100b7c0
-‚
-Rarchisyscorelib/src/main/java/com/archisys/archisyscorelib/API/RestApiManager.java,f/2/f2ce2d52412376cc8057c25c3472f2984336f3ef
 ƒ
 Sarchisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/CountDrawable.java,8/3/8359226e1f58b1efd351293036c3f7f1a56a86cf
 ‡
@@ -45,5 +41,9 @@ P
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
 L
 archisyscorelib/build.gradle,e/2/e2054738f6942b05f27d44cd9f085a8e0b272b54
-{
-Karchisyscorelib/src/main/java/com/archisys/archisyscorelib/API/RestApi.java,6/b/6b51f9a67a4e098e5cfef883ac0bc8ab3ce4d785
+g
+7app/src/main/java/com/archisys/archisyscorelib/ABC.java,9/e/9e2ad7420585040dad25dc5aaaf25fe0d2d3b2b4
+\
+,archisyscorelib/src/main/AndroidManifest.xml,5/8/58c433e7588b5f000e9ed64252b8a32e5331b519
+‰
+Yarchisyscorelib/src/main/java/com/archisys/archisyscorelib/Listener/PermissionResult.java,e/8/e8a262de794cc4d68c514fea6cbdf1b83a371e52
