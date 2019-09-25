@@ -45,6 +45,13 @@ import java.util.regex.Pattern;
 public class CommonUtils {
 
     public static boolean isConnected;
+    private static final int SECOND_MILLIS = 1000;
+    private static final int MINUTE_MILLIS = 60 * SECOND_MILLIS;
+    private static final int HOUR_MILLIS = 60 * MINUTE_MILLIS;
+    private static final int DAY_MILLIS = 24 * HOUR_MILLIS;
+    private static final int WEEKS_MILLIS = 7 * DAY_MILLIS;
+    private static final int MONTHS_MILLIS = 4 * WEEKS_MILLIS;
+    private static final int YEARS_MILLIS = 12 * MONTHS_MILLIS;
     public static String getTodayDate()
     {
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy hh:mm:ss");
@@ -262,7 +269,7 @@ public class CommonUtils {
         if (timeAtMiliseconds.equalsIgnoreCase("")) {
             return "";
         }
-        Log.d("Roshani", "Time at milli second " + timeAtMiliseconds);
+        Log.d("Prakash", "Time at milli second " + timeAtMiliseconds);
         String result = "now";
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy:MM:dd:hh:mm:ss aa");
         formatter.setTimeZone(TimeZone.getDefault());
@@ -278,7 +285,7 @@ public class CommonUtils {
         try {
             CurrentDate = formatter.parse(dataSot);
             CreateDate = formatter.parse(agoformater);
-            Log.d("Roshani", "Current===" + dataSot + "=-Create==" + agoformater);
+            Log.d("Prakash", "Current===" + dataSot + "=-Create==" + agoformater);
             long different = Math.abs(CurrentDate.getTime() - CreateDate.getTime());
 
             long secondsInMilli = 1000;
@@ -373,6 +380,40 @@ public class CommonUtils {
             e.printStackTrace();
         }
         return result;
+    }
+
+    public static String getTimeAgoFromMillis(long millis){
+//  time difference in milli seconds
+        long different = System.currentTimeMillis() - millis;
+
+        if (different < MINUTE_MILLIS) {
+            return different / SECOND_MILLIS + " seconds ago";
+        } else if (different < 2 * MINUTE_MILLIS) {
+            return "a minute ago";
+        } else if (different < 50 * MINUTE_MILLIS) {
+            return different / MINUTE_MILLIS + " minutes ago";
+        } else if (different < 90 * MINUTE_MILLIS) {
+            return "a hour ago";
+        } else if (different < 24 * HOUR_MILLIS) {
+            return different / HOUR_MILLIS + " hours ago";
+        } else if (different < 48 * HOUR_MILLIS) {
+            return "Yesterday";
+        } else if (different < 7 * DAY_MILLIS) {
+            return different / DAY_MILLIS + " days ago";
+        } else if (different < 2 * WEEKS_MILLIS) {
+            return "a week ago";
+        } else if (different < 3.5 * WEEKS_MILLIS) {
+            return different / WEEKS_MILLIS + " weeks ago";
+        } else if (different < 2 * MONTHS_MILLIS) {
+            return "a month ago";
+        }else if (different < 13 * MONTHS_MILLIS) {
+            return different / MONTHS_MILLIS + " months ago";
+        }else if (different < 2 * YEARS_MILLIS) {
+            return "a year ago";
+        }else{
+            return different / YEARS_MILLIS + " years ago";
+        }
+
     }
 
     public static boolean isMyServiceRunning(Context context) {

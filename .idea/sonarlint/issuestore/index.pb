@@ -47,3 +47,7 @@ g
 ,archisyscorelib/src/main/AndroidManifest.xml,5/8/58c433e7588b5f000e9ed64252b8a32e5331b519
 ‰
 Yarchisyscorelib/src/main/java/com/archisys/archisyscorelib/Listener/PermissionResult.java,e/8/e8a262de794cc4d68c514fea6cbdf1b83a371e52
+‘
+aarchisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/MovableFloatingActionButton.java,9/0/90b59d8291a5630e751eeb437cf007b6902b449a
+‡
+Warchisyscorelib/src/main/java/com/archisys/archisyscorelib/Listener/ActivityResult.java,3/c/3c1013f34b6767d1020b599343ad6cd694e76ade

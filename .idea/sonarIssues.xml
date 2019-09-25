@@ -13,6 +13,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../TestProject/FlutterProjects/APIRequestFlutter/vegetos_flutter/lib/UI/MyCartScreen.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TestProject/FlutterProjects/APIRequestFlutter/vegetos_flutter/pubspec.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../TestProject/espressoUIIntegrationTest/app/src/androidTest/java/com/android/sample/espressouitestsample/login/LoginScreenTest.java">
           <value>
             <set />
@@ -578,6 +588,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/splashscreen_activity.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../project/FindMyTrade/app/src/main/res/layout/tip_detail_activity.xml">
           <value>
             <set />
@@ -763,7 +778,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Model/CommonUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/Base/BaseApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/archisyscorelib/src/main/java/com/archisys/archisyscorelib/Utils/CommonUtils.java">
           <value>
             <set />
           </value>
